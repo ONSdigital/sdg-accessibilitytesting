@@ -8,13 +8,13 @@ You need these installed before proceeding:
 
 * Git
 * Node JS
-* Yarn
 
 ### 1. Setup
 
 To setup accessibility testing, clone this repository and install all dependencies:
 
 ```bash
+npm install -g yarn
 git clone https://github.com/onsdigital/sdg-accessibilitytesting.git
 cd sdg-accessibilitytesting
 yarn
