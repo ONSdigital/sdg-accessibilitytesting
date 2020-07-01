@@ -6,8 +6,8 @@
 
 You need these installed before proceeding:
 
-* Git - [install here](https://git-scm.com/)
-* Node JS - [install here](https://nodejs.org/)
+* Git - [install](https://git-scm.com/)
+* Node JS - [install](https://nodejs.org/)
 
 ### 1. Setup
 
