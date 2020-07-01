@@ -14,7 +14,7 @@ You need these installed before proceeding:
 To setup accessibility testing, clone this repository and install all dependencies:
 
 ```bash
-git clone https://github.com/savvas-sdg/sdg-accessibilitytesting.git
+git clone https://github.com/onsdigital/sdg-accessibilitytesting.git
 cd sdg-accessibilitytesting
 yarn
 ```
