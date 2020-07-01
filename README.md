@@ -6,6 +6,7 @@
 
 You need these installed before proceeding:
 
+* An off-network laptop
 * Git - [install](https://git-scm.com/)
 * Node JS - [install](https://nodejs.org/)
 
