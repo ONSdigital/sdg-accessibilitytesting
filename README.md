@@ -4,7 +4,9 @@
 
 ### Prerequisites
 
-You need these installed before proceeding. You will probably need an off-network computer to be able install these:
+You need these installed before proceeding: 
+
+⚠️ NOTE: You will probably need an off-network computer to be able install these:
 
 * Git - [install](https://git-scm.com/)
 * Node JS - [install](https://nodejs.org/)
