@@ -82,7 +82,7 @@ This is the file where you'll add any configurations. These are a list of [Pa11y
 
 ### 3. Run tests
 
-To run all the tests, run `npm start` or `yarn start` at the root directory of the project. It might take a few seconds for the reports to be generated.
+To run all the tests, run `yarn start` at the root directory of the project. It might take a few seconds for the reports to be generated.
 
 ### 4. See reports
 
