@@ -56,7 +56,7 @@ For this you'll have to edit 2 files: `pages.json` and `configurations.json`:
 
 #### configurations.json
 
-This is the file where you'll add any configurations. For example, change to a mobile screen or set to high contrast mode before testing:
+This is the file where you'll add any configurations. These are a list of [Pa11y Actions found here](https://github.com/pa11y/pa11y#actions). For example, change to a mobile screen or set to high contrast mode before testing:
 
 ```json
 {
