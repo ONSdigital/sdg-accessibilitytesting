@@ -8,6 +8,7 @@ You need these installed before proceeding:
 
 * Git
 * Node JS
+* Yarn
 
 ### 1. Setup
 
